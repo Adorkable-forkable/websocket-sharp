@@ -1,0 +1,33 @@
+{
+  "name": "com.sta-blockhead.websocket-sharp",
+  "displayName": "websocket-sharp",
+  "version": "1.0.3-rc11",
+  "unity": "2019.4",
+  "category": "Library/Networking",
+  "keywords": [
+    "package",
+    "unity",
+    "websocket"
+  ],
+  "description": "A C# implementation of the WebSocket protocol client and server",
+  "license": "MIT",
+  "dependencies": {},
+  "author": "STA <sta.blockhead@gmail.com>",
+  "samples": [
+    {
+      "displayName": "Example 1",
+      "description": "A compontent that will display parsed Subtitles in a `Text` element, crossfading between lines depending on a custom `Fade Time`",
+      "path": "Example1~"
+    },
+    {
+      "displayName": "Example 2",
+      "description": "A compontent that will display parsed Subtitles in a `Text` element, crossfading between lines depending on a custom `Fade Time`",
+      "path": "Example2~"
+    },
+    {
+      "displayName": "Example 3",
+      "description": "A compontent that will display parsed Subtitles in a `Text` element, crossfading between lines depending on a custom `Fade Time`",
+      "path": "Example3~"
+    }
+  ]
+}
